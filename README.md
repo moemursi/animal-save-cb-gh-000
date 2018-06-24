@@ -1,6 +1,6 @@
 
 
-# Animal Save!
+# Animald Save!
 
 Use your knowledge of media queries and absolute positioning to help these
 animals escape sudden danger.
